@@ -2,10 +2,6 @@
   <img src="profile.svg" alt="esnupy@space33 — perfil terminal" width="1067">
 </p>
 
-<p align="center">
-  <sub>Generado con <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
-</p>
-
 ---
 
 - 👋 Hola, soy **@esnupy** (`esnupy@space33`)
