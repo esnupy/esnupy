@@ -1,8 +1,3 @@
-<!-- neofetch-style profile — texto nativo, sin imagen -->
-<table>
-  <tr>
-    <td valign="top">
-
 <pre>
 ==============================================================================================
 ==============================================================================================
@@ -54,34 +49,6 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 </pre>
-
-    </td>
-    <td valign="top">
-
-**esnupy@space33**
---------------------------------------------
-
-- **OS** ...................... Mac
-- **Host** .................... ThinkPad X1 Carbon
-- **Kernel** .................. Linux 6.12.8-arch1-1
-- **IDE** ..................... Neovim, VS Code
-
-**Languages**
-- **Languages.Programming** ... English and Spanish
-- **Tools** ................... Cursor, Claude Code
-
-**Hobbies**
-- **Hobbies.Software** ........ Open Source, Game Development
-- **Hobbies.Hardware** ........ SBCs, Mechanical Keyboards
-
-**Contact**
-- **GitHub** .................. [github.com/esnupy](https://github.com/esnupy)
-- **LinkedIn** ................ [linkedin.com/in/rogeliomerino](https://linkedin.com/in/rogeliomerino)
-
-
-    </td>
-  </tr>
-</table>
 
 ---
 
