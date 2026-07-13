@@ -1,19 +1,22 @@
 <p align="center">
-  <img src="profile.svg" alt="Hacker Profile" width="1067">
+  <img src="profile.svg" alt="esnupy@space33 — perfil terminal" width="1067">
 </p>
 
 <p align="center">
-  <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
+  <sub>Generado con <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
 </p>
 
-- 👋 Hi, I’m @esnupy
-- 👀 I’m interested in IA
-- 🌱 I’m currently learning how to crack the code
-- 💞️ I’m looking to collaborate on any Open Source
-- 📫 How to reach me in Linkedln 
-- ⚡ Fun fact: Studio in the day and Studio in the night we work all day 
+---
+
+- 👋 Hola, soy **@esnupy** (`esnupy@space33`)
+- 🧠 Interesado en **IA** y herramientas de desarrollo (Cursor, Claude Code)
+- 🌱 Aprendiendo a romper el código — un bug a la vez
+- 🤝 Busco colaborar en **Open Source** y proyectos de game dev
+- 🛠️ Stack de editor: Neovim, VS Code
+- 🎮 Hobbies: SBCs, teclados mecánicos, game development
+- 📫 **GitHub:** [github.com/esnupy](https://github.com/esnupy)
+- 💼 **LinkedIn:** [linkedin.com/in/rogeliomerino](https://linkedin.com/in/rogeliomerino)
 
 <!---
-esnupy/esnupy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+esnupy/esnupy es un repositorio ✨ especial ✨: este README aparece en tu perfil de GitHub.
 --->
