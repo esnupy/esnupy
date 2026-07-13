@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="profile.svg" alt="Hacker Profile" width="1067">
+</p>
+
+<p align="center">
+  <sub>Readme generated with <a href="https://holasoymalva.github.io/ASCII-README-Generator/">AsciiProfileGenerator</a></sub>
+</p>
+
 - 👋 Hi, I’m @esnupy
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning how to crack the code
